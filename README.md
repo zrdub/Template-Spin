@@ -40,10 +40,10 @@ Project ini dibuat tanpa framework dan tanpa build tools. Cukup buka `index.html
 
 screenshot 
 
-```md
+
 <img width="1911" height="956" alt="image" src="https://github.com/user-attachments/assets/c7c239e0-7b50-4a3f-a29e-aa78eef7226c" />
 
-```
+
 
 ## Tech Stack
 
